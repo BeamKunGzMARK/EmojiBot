@@ -1,0 +1,18 @@
+{
+    "sqltools.connections": [
+        {
+            "database": "membersid",
+            "driver": "MySQL",
+            "group": "fast-ethos-246704:us-central1:beamkungzmarkdbl",
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "name": "beamkungzmarkdbl",
+            "password": "Prapai2017",
+            "port": 3306,
+            "previewLimit": 50,
+            "server": "34.67.77.24",
+            "username": "BeamKunGzMARK"
+        }
+    ]
+}
