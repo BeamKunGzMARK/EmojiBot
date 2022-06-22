@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/BeamKunGzMARK/Emojibot#readme",
   "dependencies": {
-    "async": "^3.2.0",
+    "async": "^3.2.2",
     "async-limiter": "^2.0.0",
     "axios": "^0.19.2",
     "better-sqlite3": "^7.1.0",
